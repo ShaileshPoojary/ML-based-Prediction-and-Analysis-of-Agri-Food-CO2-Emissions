@@ -1,6 +1,5 @@
 ---
-
-```markdown
+```
 # 🌍 Agri-Food CO₂ Emissions Predictor  
 
 This project uses **Machine Learning** to predict **CO₂ emissions** in the agriculture and food sector.  
@@ -21,13 +20,12 @@ The model is deployed with **Streamlit** for an interactive dashboard where user
 ```
 
 📦 agri-food-emissions
-┣ 📜 co2\_model.pkl          # Trained Random Forest model
+┣ 📜 co2_model.pkl          # Trained Random Forest model
 ┣ 📜 features.pkl           # Feature names used in training
 ┣ 📜 dataset.csv            # Source dataset (replace with actual file)
 ┣ 📜 app.py                 # Streamlit dashboard
-┣ 📜 train\_model.ipynb      # Jupyter Notebook for training
+┣ 📜 train_model.ipynb      # Jupyter Notebook for training
 ┣ 📜 README.md              # Project documentation
-┗ 📜 requirements.txt       # Dependencies
 
 ````
 
@@ -107,9 +105,4 @@ Then open your browser at **[http://localhost:8501/](http://localhost:8501/)**
 
 This project is open-source under the **MIT License**.
 
-```
-
----
-
-Would you like me to also add a **"Demo" section** with placeholders for **screenshots of the Streamlit app** (so later you can just upload PNGs and link them in the README)?
 ```
