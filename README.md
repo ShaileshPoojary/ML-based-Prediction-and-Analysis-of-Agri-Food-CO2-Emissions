@@ -1,5 +1,7 @@
+ML-based-Prediction-and-Analysis-of-Agri-Food-CO2-Emission
+---
 ```
-# 🌍 Agri-Food CO₂ Emissions Predictor  
+# ML-based-Prediction-and-Analysis-of-Agri-Food-CO2-Emissions
 
 This project uses **Machine Learning** to predict **CO₂ emissions** in the agriculture and food sector.  
 The model is deployed with **Streamlit** for an interactive dashboard where users can input values (in kilotonnes) and get predicted emissions.  
