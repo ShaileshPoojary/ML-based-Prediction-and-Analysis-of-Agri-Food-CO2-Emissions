@@ -1,5 +1,4 @@
 ML-based-Prediction-and-Analysis-of-Agri-Food-CO2-Emission
----
 ```
 # ML-based-Prediction-and-Analysis-of-Agri-Food-CO2-Emissions
 
