@@ -1,4 +1,3 @@
----
 ```
 # 🌍 Agri-Food CO₂ Emissions Predictor  
 
